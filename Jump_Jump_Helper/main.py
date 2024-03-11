@@ -85,7 +85,7 @@ while True:
     img_rgb = cv2.circle(img_rgb, (target_x, target_y), 10, (255, 255, 0), -1)
     cv2.imwrite('last.png', img_rgb)
 
-    # calculate the distance and perform one jump
+    # Calculate the distance and perform one jump
     distance = np.linalg.norm(np.array(start_pos) - np.array([target_x, target_y]))
     jump(distance)
     time.sleep(1.25)
