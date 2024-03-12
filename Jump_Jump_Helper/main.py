@@ -73,7 +73,7 @@ while True:
 
     # Edge detection will be used if the match value does not reach 0.95
     if match_value >= 0.95:
-        print('Center point detection')
+        print('Template matching')
         target_x, target_y = circle_pos[0] + circle_template_width // 2, circle_pos[1] + circle_template_height // 2
     else:
         print('Edge detection')
