@@ -16,7 +16,7 @@ A collection of my big data and artificial intelligence course assignments.
 ## 仓库组成
 
 * [Jump Jump Helper](Jump_Jump_Helper)
-“跳一跳”游戏助手
+“跳一跳”游戏辅助工具
 
 ## 文档更新日期
 
