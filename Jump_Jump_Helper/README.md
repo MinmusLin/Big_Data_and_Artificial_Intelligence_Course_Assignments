@@ -10,9 +10,11 @@ Jump_Jump_Helper
 
 本项目是一个辅助工具，旨在帮助用户在“跳一跳”游戏中获得更高的分数。通过获取手机屏幕截图，识别游戏界面中的起始位置和目标位置，计算合适的蓄力时间，并通过ADB控制手机进行跳跃，以达到游戏中跳跃到目标的目的。
 
-* [移动端演示视频](assets/demo_video_mobile.mp4)
+* `assets/demo_video_mobile.mp4`
+[移动端演示视频](assets/demo_video_mobile.mp4)
 
-* [电脑端演示视频](assets/demo_video_pc.mp4)
+* `assets/demo_video_pc.mp4`
+[电脑端演示视频](assets/demo_video_pc.mp4)
 
 ## 项目文件组成
 
