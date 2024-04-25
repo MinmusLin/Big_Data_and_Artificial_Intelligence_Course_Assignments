@@ -18,6 +18,9 @@ A collection of my big data and artificial intelligence course assignments.
 * [Jump Jump Helper](Jump_Jump_Helper)
 “跳一跳”游戏辅助工具
 
+* [LLM in Smart Chatbots](LLM_in_Smart_Chatbots.md)
+大语言模型在智能对话机器人中的应用与结合
+
 ## 文档更新日期
 
-2024年3月12日
+2024年4月25日
