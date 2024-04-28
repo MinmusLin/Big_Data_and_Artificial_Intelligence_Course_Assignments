@@ -18,9 +18,6 @@ Visualization_of_Douban_Reading_Top_250
 * `DoubanReadingTop250-Revised.csv`
 清洗和处理后的数据文件
 
-* `Output.png`
-豆瓣读书 Top 250 各国图书数量分布
-
 * `Visualization.ipynb`
 可视化脚本
 
