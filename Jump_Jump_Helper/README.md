@@ -18,6 +18,9 @@ Jump_Jump_Helper
 
 ## 项目文件组成
 
+* `/assets`
+存放 `README.md` 文件所需的相关图片资源
+
 * `main.py`
 主程序
 
@@ -201,4 +204,4 @@ def jump(dist):
 
 ## 文档更新日期
 
-2024年3月12日
+2024年6月10日
