@@ -19,7 +19,7 @@ A collection of my big data and artificial intelligence course assignments.
 “跳一跳”游戏辅助工具
 
 * [O2O Coupon Prediction](O2O_Coupon_Prediction)
-O2O（Online to Offline）优惠券预测
+基于机器学习的 O2O（Online to Offline）优惠券预测
 
 * [Visualization of Douban Reading Top 250](Visualization_of_Douban_Reading_Top_250)
 豆瓣读书 Top 250 数据可视化
@@ -35,4 +35,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年6月20日
+2024年6月29日
