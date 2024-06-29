@@ -4,13 +4,13 @@
 
 Visualization_of_Douban_Reading_Top_250
 
-## 项目实现功能
+## 项目简介
 
 豆瓣读书 Top 250 数据可视化
 
 本项目利用豆瓣读书 Top 250 的数据集，进行了数据清洗、处理和可视化，以探索不同国家的图书在豆瓣读书 Top 250 中的分布情况。
 
-## 项目文件组成
+## 项目组成
 
 * `DoubanReadingTop250.csv`
 原始数据文件
@@ -23,4 +23,4 @@ Visualization_of_Douban_Reading_Top_250
 
 ## 文档更新日期
 
-2024年4月29日
+2024年6月30日
